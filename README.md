@@ -12,3 +12,9 @@ npm install
 npm start
 ~~~
 
+### 预览
+
+~~~bash
+localhost:4500
+~~~
+
