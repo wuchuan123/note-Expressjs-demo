@@ -1,0 +1,36 @@
+{
+  "name": "express-note04",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "express-session": "^1.17.0",
+    "http-errors": "~1.6.3",
+    "less": "^3.11.1",
+    "less-loader": "^5.0.0",
+    "morgan": "~1.9.1",
+    "passport": "^0.4.1",
+    "passport-github": "^1.1.0",
+    "passport-jirengu": "^1.0.1",
+    "sequelize": "^5.21.6",
+    "serve-favicon": "^2.5.0",
+    "sqlite3": "^4.1.1",
+    "style-loader": "^1.1.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "css-loader": "^3.5.2",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "onchange": "^6.1.0",
+    "postcss-loader": "^3.0.0",
+    "webpack": "^4.42.1",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
